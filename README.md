@@ -1,4 +1,4 @@
-# Toward Real-Time Introspective Compression for Transformers
+# Real-Time Introspective Compression for Transformers
 
 **By Jeffrey Emanuel (and various collaborators of the electronic persuasion)**
 
