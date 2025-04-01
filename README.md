@@ -1,6 +1,6 @@
 # Toward Real-Time Introspective Compression for Transformers
 
-**By Jeffrey Emanuel, and some collaborators of the electronic persuasion.**
+**By Jeffrey Emanuel (and various collaborators of the electronic persuasion)**
 
 *Written on April 1st, 2025*
 
